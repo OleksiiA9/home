@@ -29,9 +29,6 @@ $('.arrow .top').click(function () {
     });
     });
 }); 
-$(document).ready(function(){
-  $('.bxslider').bxSlider();
-});
 
 $(document).ready(function(){
 	$('.menu').click(function(){
