@@ -51,6 +51,7 @@ responsive: [
         //centerPadding: '40px',
         slidesToShow: 1,
         slidesToScroll: 1,
+        dots: false,  
         }
     },
     {
@@ -61,7 +62,7 @@ responsive: [
         //centerPadding: '40px',
         slidesToShow: 1,
         slidesToScroll: 1,
-        //dots: true,
+        dots: false,
         }
     }
 ]
